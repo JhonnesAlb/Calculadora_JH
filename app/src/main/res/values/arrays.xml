@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="selecao_moedas">
+        <item>Escolha a moeda</item>
+        <item>Dólar (USD)</item>
+        <item>Euro (EUR)</item>
+        <item>Libra (GBP)</item>
+        <item>Iene (JPY)</item>
+    </string-array>
+</resources>
